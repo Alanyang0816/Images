@@ -1,2 +1,2 @@
 # Images
-Used to link to from wiki.
+Used to link to from wiki on K2 and K3 repos. Upload files here and link there. Didn't want to upload more files to those repos to simply display how the home page looks...
